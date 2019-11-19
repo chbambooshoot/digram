@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-19T15:22:46.454Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="uk2sX7zBR1rJZEzr-ssp" version="12.2.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-19T15:23:08.832Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="i2qoPQxgcNjODeW30GSd" version="12.2.7" type="github" pages="1">
   <diagram id="_k7ATfRaIhLiad4DB_Zv" name="Page-1">
     <mxGraphModel dx="1902" dy="1037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -106,7 +106,7 @@
           <mxGeometry x="20" y="690" width="192" height="70" as="geometry"/>
         </mxCell>
         <mxCell id="3WG7HzVJRfW7o0X7CnDg-46" value="&lt;font style=&quot;font-size: 17px&quot;&gt;只要是对方签字确认的文档，就要快速完成&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1175" y="70" width="150" height="80" as="geometry"/>
+          <mxGeometry x="1180" y="60" width="140" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="3WG7HzVJRfW7o0X7CnDg-51" value="&lt;font style=&quot;font-size: 17px&quot;&gt;只要答应对方的内容，就要快速完成&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="800" y="435" width="150" height="80" as="geometry"/>
