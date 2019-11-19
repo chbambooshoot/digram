@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-19T15:45:40.560Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="VT09QodjtzS1cBPzepHP" version="12.2.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-19T15:47:42.177Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="msoPEdbCQthuEcYfoU3V" version="12.2.7" type="github" pages="1">
   <diagram id="_k7ATfRaIhLiad4DB_Zv" name="Page-1">
     <mxGraphModel dx="1902" dy="1037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -75,14 +75,13 @@
         <mxCell id="3WG7HzVJRfW7o0X7CnDg-49" value="&lt;font style=&quot;font-size: 18px&quot;&gt;负责人关注需求进展，及时预警&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1180" y="160" width="140" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="3WG7HzVJRfW7o0X7CnDg-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="3WG7HzVJRfW7o0X7CnDg-67" target="3WG7HzVJRfW7o0X7CnDg-54">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="3WG7HzVJRfW7o0X7CnDg-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="3WG7HzVJRfW7o0X7CnDg-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1430" y="360" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
         <mxCell id="3WG7HzVJRfW7o0X7CnDg-67" value="&lt;font style=&quot;font-size: 18px&quot;&gt;完成后，由需求主导人验收&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1360" y="160" width="140" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="3WG7HzVJRfW7o0X7CnDg-54" value="&lt;span style=&quot;font-size: 18px&quot;&gt;验收通过，负责人通知客户&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1360" y="260" width="140" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="3WG7HzVJRfW7o0X7CnDg-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontStyle=1" edge="1" parent="1" source="3WG7HzVJRfW7o0X7CnDg-23" target="3WG7HzVJRfW7o0X7CnDg-35">
           <mxGeometry relative="1" as="geometry"/>
@@ -94,16 +93,16 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="3WG7HzVJRfW7o0X7CnDg-35" value="&lt;font style=&quot;font-size: 18px&quot;&gt;负责人关注BUG进展，及时预警&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="785" y="361" width="150" height="60" as="geometry"/>
+          <mxGeometry x="850" y="361" width="150" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="3WG7HzVJRfW7o0X7CnDg-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="3WG7HzVJRfW7o0X7CnDg-63" target="3WG7HzVJRfW7o0X7CnDg-65">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="3WG7HzVJRfW7o0X7CnDg-63" value="&lt;font style=&quot;font-size: 18px&quot;&gt;负责人检查bug的修改情况&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="985" y="361" width="150" height="60" as="geometry"/>
+        <mxCell id="3WG7HzVJRfW7o0X7CnDg-63" value="&lt;font style=&quot;font-size: 18px&quot;&gt;完成后，负责人验收BUG&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1105" y="361" width="150" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="3WG7HzVJRfW7o0X7CnDg-65" value="&lt;font style=&quot;font-size: 18px&quot;&gt;验收通过，负责人通知客户&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1180" y="361" width="130" height="60" as="geometry"/>
+          <mxGeometry x="1365" y="361" width="130" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="3WG7HzVJRfW7o0X7CnDg-30" value="&lt;font style=&quot;font-size: 17px&quot;&gt;1.【强制】对于BUG，如果需要别人解决，要对问题进行编号。编号方式：&lt;br&gt;【地区简称-BUG-日期-禅道ID】&lt;br&gt;自己解决的问题可不用上报禅道及编号，突发大量的不用上报禅道及编号&lt;br&gt;&lt;br&gt;2.【强制】所有新需求，需要有电子文档整理，均要对方在规定时间内确认&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="530" y="435" width="250" height="265" as="geometry"/>
@@ -118,10 +117,10 @@
           <mxGeometry x="20" y="690" width="192" height="70" as="geometry"/>
         </mxCell>
         <mxCell id="3WG7HzVJRfW7o0X7CnDg-46" value="&lt;font style=&quot;font-size: 17px&quot;&gt;1.【推荐】只要答应对方的内容，就要快速完成&lt;br&gt;2.【推荐】鼓励多面手负责人完成多种类型的工作&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1160" y="60" width="200" height="80" as="geometry"/>
+          <mxGeometry x="1150" y="70" width="200" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="3WG7HzVJRfW7o0X7CnDg-51" value="&lt;font style=&quot;font-size: 17px&quot;&gt;1.【推荐】只要答应对方的内容，就要快速完成&lt;br&gt;2.【推荐】鼓励多面手负责人完成多种类型的工作&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="800" y="435" width="190" height="105" as="geometry"/>
+          <mxGeometry x="840" y="435" width="190" height="105" as="geometry"/>
         </mxCell>
         <mxCell id="3WG7HzVJRfW7o0X7CnDg-58" value="&lt;font style=&quot;font-size: 17px&quot;&gt;1.【推荐】优先级相同的问题整合后，合并整理发送比较妥当&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="770" y="80" width="190" height="70" as="geometry"/>
