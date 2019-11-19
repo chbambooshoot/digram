@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-19T15:16:53.608Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="RIe2XDBjbD_vDcMWs6NS" version="12.2.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-19T15:22:46.454Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="uk2sX7zBR1rJZEzr-ssp" version="12.2.7" type="github" pages="1">
   <diagram id="_k7ATfRaIhLiad4DB_Zv" name="Page-1">
     <mxGraphModel dx="1902" dy="1037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,10 +61,22 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="3WG7HzVJRfW7o0X7CnDg-39" value="&lt;font style=&quot;font-size: 18px&quot;&gt;负责人整理相关文档，发邮箱&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="160" width="160" height="60" as="geometry"/>
+          <mxGeometry x="780" y="160" width="160" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="3WG7HzVJRfW7o0X7CnDg-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="3WG7HzVJRfW7o0X7CnDg-42" target="3WG7HzVJRfW7o0X7CnDg-49">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="3WG7HzVJRfW7o0X7CnDg-42" value="&lt;font style=&quot;font-size: 18px&quot;&gt;等待对方签字确认&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="160" width="160" height="60" as="geometry"/>
+          <mxGeometry x="980" y="160" width="160" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="3WG7HzVJRfW7o0X7CnDg-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="3WG7HzVJRfW7o0X7CnDg-49" target="3WG7HzVJRfW7o0X7CnDg-54">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="3WG7HzVJRfW7o0X7CnDg-49" value="&lt;font style=&quot;font-size: 18px&quot;&gt;负责人关注需求进展，及时预警&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="160" width="140" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="3WG7HzVJRfW7o0X7CnDg-54" value="&lt;font style=&quot;font-size: 18px&quot;&gt;问题解决，通知客户&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="160" width="140" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="3WG7HzVJRfW7o0X7CnDg-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="3WG7HzVJRfW7o0X7CnDg-23" target="3WG7HzVJRfW7o0X7CnDg-35">
           <mxGeometry relative="1" as="geometry"/>
@@ -72,8 +84,14 @@
         <mxCell id="3WG7HzVJRfW7o0X7CnDg-23" value="&lt;font style=&quot;font-size: 18px&quot;&gt;负责人受理BUG，禅道发起BUG流程&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="361" width="160" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="3WG7HzVJRfW7o0X7CnDg-35" value="&lt;font style=&quot;font-size: 18px&quot;&gt;负责人关注BUG进展&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="361" width="120" height="60" as="geometry"/>
+        <mxCell id="3WG7HzVJRfW7o0X7CnDg-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="3WG7HzVJRfW7o0X7CnDg-35" target="3WG7HzVJRfW7o0X7CnDg-56">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="3WG7HzVJRfW7o0X7CnDg-35" value="&lt;font style=&quot;font-size: 18px&quot;&gt;负责人关注BUG进展，及时预警&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="361" width="150" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="3WG7HzVJRfW7o0X7CnDg-56" value="&lt;font style=&quot;font-size: 18px&quot;&gt;问题解决，通知客户&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="995" y="361" width="130" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="3WG7HzVJRfW7o0X7CnDg-30" value="&lt;font style=&quot;font-size: 17px&quot;&gt;1.【强制】对于BUG，要进行编号。编号方式：&lt;br&gt;【地区简称+BUG+日期+禅道ID】&lt;br&gt;2.【强制】所有新需求，需要有电子文档整理，均要对方在规定时间内确认&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="540" y="429" width="240" height="185" as="geometry"/>
@@ -87,8 +105,11 @@
         <mxCell id="3WG7HzVJRfW7o0X7CnDg-33" value="&lt;font style=&quot;font-size: 14px&quot;&gt;2.不合理问题示例&lt;br&gt;&lt;br&gt;请帮我生成一条巡河轨迹&lt;br&gt;请帮我修改下统计结果&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="690" width="192" height="70" as="geometry"/>
         </mxCell>
-        <mxCell id="3WG7HzVJRfW7o0X7CnDg-46" value="&lt;font style=&quot;font-size: 17px&quot;&gt;1.【强制】所有新需求，需要有电子文档整理，均要对方在规定时间内确认&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="10" width="240" height="110" as="geometry"/>
+        <mxCell id="3WG7HzVJRfW7o0X7CnDg-46" value="&lt;font style=&quot;font-size: 17px&quot;&gt;只要是对方签字确认的文档，就要快速完成&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1175" y="70" width="150" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="3WG7HzVJRfW7o0X7CnDg-51" value="&lt;font style=&quot;font-size: 17px&quot;&gt;只要答应对方的内容，就要快速完成&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="800" y="435" width="150" height="80" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
