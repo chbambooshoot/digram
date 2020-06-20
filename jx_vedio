@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-20T04:07:41.533Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="Dgq6-reYgMbyIZFP-pMN" version="13.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-20T04:08:24.675Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="y4MkaNbYGzH1Fi1Dc7zU" version="13.0.6" type="github">
   <diagram id="dEQLZp3NcbviBy_xBdyh" name="Page-1">
     <mxGraphModel dx="1038" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,8 +27,8 @@
         <mxCell id="MnbEBwhY60_p7F8hItpL-7" value="用户点击播放" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MnbEBwhY60_p7F8hItpL-6" value="livingvedio新增字段：&lt;br&gt;stationtype&amp;nbsp; int&amp;nbsp; &amp;nbsp;{0：萤石云站点；1：海康站点}&lt;br&gt;这个新增字段暴露在前端，让用户输入，默认填写海康&lt;br&gt;HLS_aquiretime datetime&amp;nbsp; 一个时间戳，用于HLS获取的时间&lt;br&gt;&lt;br&gt;新建逻辑：&lt;br&gt;if&amp;nbsp; 是新建的萤石云站点&lt;br&gt;{&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;存储stationtype&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;存储萤石云所需的字段&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;发动原有的萤石云接口，获取萤石云token&lt;br&gt;}&lt;br&gt;else if 新建海康站点{&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;存储stationstype&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;存储海康所需的字段（只有站点名称和编号）&lt;br&gt;}" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="300" y="130" width="340" height="250" as="geometry" />
+        <mxCell id="MnbEBwhY60_p7F8hItpL-6" value="新建逻辑：&lt;br&gt;if&amp;nbsp; 是新建的萤石云站点&lt;br&gt;{&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;存储stationtype&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;存储萤石云所需的字段&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;发动原有的萤石云接口，获取萤石云token&lt;br&gt;}&lt;br&gt;else if 新建海康站点{&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;存储stationstype&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;存储海康所需的字段（只有站点名称和编号）&lt;br&gt;}" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="75" y="200" width="345" height="180" as="geometry" />
         </mxCell>
         <mxCell id="MnbEBwhY60_p7F8hItpL-13" value="海康" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MnbEBwhY60_p7F8hItpL-11">
           <mxGeometry relative="1" as="geometry">
@@ -46,6 +46,9 @@
         </mxCell>
         <mxCell id="MnbEBwhY60_p7F8hItpL-15" value="用原有的H5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MnbEBwhY60_p7F8hItpL-21" value="&lt;span style=&quot;&quot;&gt;livingvedio新增字段：&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;stationtype&amp;nbsp; int&amp;nbsp; &amp;nbsp;{0：萤石云站点；1：海康站点}&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;这个新增字段暴露在前端，让用户输入，默认填写海康&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;HLS_aquiretime datetime&amp;nbsp; 一个时间戳，用于HLS获取的时间&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="80" y="130" width="340" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
