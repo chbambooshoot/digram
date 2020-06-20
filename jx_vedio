@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-20T03:49:09.360Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="U_4t63vzFlBkouC-B8Zg" version="13.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-20T03:49:22.304Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="eyWXcTWTQYnRvwoDF2Ui" version="13.0.6" type="github">
   <diagram id="dEQLZp3NcbviBy_xBdyh" name="Page-1">
     <mxGraphModel dx="1038" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -44,7 +44,7 @@
         <mxCell id="MnbEBwhY60_p7F8hItpL-14" value="获取HLS，手机走vue&lt;br&gt;web走jsp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="351" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MnbEBwhY60_p7F8hItpL-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MnbEBwhY60_p7F8hItpL-15" value="用原有的H5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="471" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
