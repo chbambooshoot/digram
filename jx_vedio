@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-20T03:49:22.304Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="eyWXcTWTQYnRvwoDF2Ui" version="13.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-20T03:50:56.570Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="grO3NKhbv2wICGWXqS74" version="13.0.6" type="github">
   <diagram id="dEQLZp3NcbviBy_xBdyh" name="Page-1">
     <mxGraphModel dx="1038" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
           <mxGeometry x="90" y="351" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MnbEBwhY60_p7F8hItpL-6" value="新增字段：&lt;br&gt;stationtype&amp;nbsp; int&amp;nbsp; &amp;nbsp;{0：萤石云站点；1：海康站点}&lt;br&gt;这个新增字段暴露在前端，让用户输入，默认填写海康&lt;br&gt;&lt;br&gt;逻辑：&lt;br&gt;if&amp;nbsp; 是新建的萤石云站点&lt;br&gt;{&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;发动原有的萤石云接口，获取萤石云token&lt;br&gt;}&lt;br&gt;else if 新建海康站点{&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;发动接口获取海康的HLS链接&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;获取到的链接放到海康的&lt;br&gt;}" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="320" y="130" width="270" height="200" as="geometry" />
+          <mxGeometry x="320" y="130" width="360" height="200" as="geometry" />
         </mxCell>
         <mxCell id="MnbEBwhY60_p7F8hItpL-13" value="海康" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MnbEBwhY60_p7F8hItpL-11">
           <mxGeometry relative="1" as="geometry">
@@ -41,7 +41,7 @@
         <mxCell id="MnbEBwhY60_p7F8hItpL-11" value="判断站点类型" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="341" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MnbEBwhY60_p7F8hItpL-14" value="获取HLS，手机走vue&lt;br&gt;web走jsp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MnbEBwhY60_p7F8hItpL-14" value="1.刷新，获取HLS&lt;br&gt;2.手机走vue&lt;br&gt;web走jsp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="351" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MnbEBwhY60_p7F8hItpL-15" value="用原有的H5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
