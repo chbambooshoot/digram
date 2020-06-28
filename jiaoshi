@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-28T07:03:46.633Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="wuDvnXtA5jGrFbMehiqS" version="13.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-28T07:08:08.861Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="sXxEVaoQ8v39CY-GRhfw" version="13.3.0" type="github">
   <diagram id="X1mS8ZaYLWwhsy6wZsRV" name="Page-1">
     <mxGraphModel dx="569" dy="309" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,14 +31,29 @@
         <mxCell id="R8qcznppAvUgrhnxDcPf-13" value="荧光" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="265" y="158" width="30" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="R8qcznppAvUgrhnxDcPf-14" value="&lt;span&gt;前处理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="270" width="30" height="55" as="geometry" />
+        <mxCell id="R8qcznppAvUgrhnxDcPf-14" value="&lt;span style=&quot;font-size: 7px&quot;&gt;前处理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="260" y="270" width="40" height="55" as="geometry" />
         </mxCell>
         <mxCell id="R8qcznppAvUgrhnxDcPf-15" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="330" y="339.5" width="15" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="R8qcznppAvUgrhnxDcPf-16" value="&lt;span&gt;嗅味&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="235" width="30" height="35" as="geometry" />
+        <mxCell id="R8qcznppAvUgrhnxDcPf-16" value="嗅味" style="rounded=0;whiteSpace=wrap;fontSize=5;" vertex="1" parent="1">
+          <mxGeometry x="260" y="235" width="40" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="R8qcznppAvUgrhnxDcPf-18" value="" style="shape=link;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="358" y="255" as="sourcePoint" />
+            <mxPoint x="358" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R8qcznppAvUgrhnxDcPf-20" value="前处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="325" width="30" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="R8qcznppAvUgrhnxDcPf-19" value="" style="shape=link;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="288" y="360" as="sourcePoint" />
+            <mxPoint x="288" y="325" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
