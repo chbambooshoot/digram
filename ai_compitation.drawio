@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-17T04:15:42.710Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="YJQ7FzcYXNPK5VkaQgbZ" version="13.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-17T04:16:49.420Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="q4AqbfYXpikqeOY6kcPR" version="13.3.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="vS7y80rnmNhIoT9w13yD-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="130" width="550" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="开始：实时监测模式" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="开始：实时监测模式" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="80" y="150" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
@@ -46,7 +46,7 @@
             <mxPoint x="139.5" y="345" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vS7y80rnmNhIoT9w13yD-8" value="历史数据查看模式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vS7y80rnmNhIoT9w13yD-8" value="历史数据查看模式" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="85" y="345" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vS7y80rnmNhIoT9w13yD-9" value="&lt;div&gt;&lt;span&gt;实时监测（以荣成为例）：&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;（1）标明站点，按数据类型分为在线站点和手工站点，按形态分为监测小屋、釆水点和浮标&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;（2）可按名称搜索站点&lt;/span&gt;&lt;/div&gt;（3）不同采样间隔的站点，显示最新数据&lt;br&gt;（4）要考虑每个站点所监测指标的不同，有些是常规，有些是光谱；" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
