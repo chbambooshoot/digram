@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-17T04:07:34.304Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="xSjAVB5qNKGI1V8oAeMw" version="13.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-17T04:13:58.188Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="_-EpxU7cpxkOIHU_IHoY" version="13.3.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,8 +33,8 @@
         <mxCell id="vS7y80rnmNhIoT9w13yD-0" value="（1）上下游污染定责&lt;br&gt;（2）无人机智能调度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="244" y="31" width="266" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="vS7y80rnmNhIoT9w13yD-1" value="人工智能应用于生态监管决策应用场景" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="30" width="120" height="60" as="geometry" />
+        <mxCell id="vS7y80rnmNhIoT9w13yD-1" value="AI应用于生态监管决策应用场景" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="20" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vS7y80rnmNhIoT9w13yD-6" value="是否选择时间段" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="235" width="100" height="70" as="geometry" />
@@ -49,8 +49,8 @@
         <mxCell id="vS7y80rnmNhIoT9w13yD-8" value="历史数据查看模式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="85" y="345" width="115" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vS7y80rnmNhIoT9w13yD-9" value="&lt;div&gt;&lt;span&gt;实时监测（以荣成为例）：&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;（1）标明站点，分为在线站点和手工站点&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;（2）可按名称搜索站点&lt;/span&gt;&lt;/div&gt;（3）不同采样间隔的站点，显示最新数据" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="150" width="260" height="90" as="geometry" />
+        <mxCell id="vS7y80rnmNhIoT9w13yD-9" value="&lt;div&gt;&lt;span&gt;实时监测（以荣成为例）：&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;（1）标明站点，按数据类型分为在线站点和手工站点，按形态分为监测小屋、釆水点和浮标&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;（2）可按名称搜索站点&lt;/span&gt;&lt;/div&gt;（3）不同采样间隔的站点，显示最新数据&lt;br&gt;（4）要考虑每个站点所监测指标的不同，有些是常规，有些是光谱；" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="150" width="290" height="140" as="geometry" />
         </mxCell>
         <mxCell id="vS7y80rnmNhIoT9w13yD-10" value="历史数据查看功能（继续列）：&lt;br&gt;（1）可选择查看站点热力图&lt;br&gt;（2）根据时间段切换遥感底图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="345" width="200" height="60" as="geometry" />
@@ -91,8 +91,8 @@
         <mxCell id="vS7y80rnmNhIoT9w13yD-16" value="上下游污染定责模拟" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="85" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vS7y80rnmNhIoT9w13yD-17" value="&lt;span&gt;根据时间段、站点水利学距离、监测指标相似性分析，做出2个站点在所选时间范围内&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="540" width="220" height="60" as="geometry" />
+        <mxCell id="vS7y80rnmNhIoT9w13yD-17" value="&lt;span&gt;（1）根据时间段、站点水力学距离、监测指标相似性分析，做出2个站点在所选时间范围内&lt;br&gt;（2）圣维南方程组解决水力学问题&lt;br&gt;（3）常规指标光谱相似性分析&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="490" width="220" height="110" as="geometry" />
         </mxCell>
         <mxCell id="vS7y80rnmNhIoT9w13yD-19" value="上下游污染定责" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="110" width="110" height="20" as="geometry" />
