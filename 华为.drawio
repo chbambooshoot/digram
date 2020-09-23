@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-23T07:37:08.339Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="OuqOjoeX51qg0wSjcIcN" version="13.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-23T07:37:39.244Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="4rYf-W4XUsmU1pN5TRcf" version="13.6.0" type="github">
   <diagram id="zH5gpZB17qFjoz4Is_cI" name="Page-1">
     <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -107,6 +107,9 @@
               <mxPoint x="670" y="110" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="sjra13BlaWqdxKEH9hcj-13" value="展示线路C" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="130" y="80" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
