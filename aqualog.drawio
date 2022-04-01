@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-01T17:14:41.249Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="0If2OEUk8OwHSfpk3Css" version="16.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-01T17:15:31.310Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="H4-dbEl5ajDBkiIixt2W" version="16.4.7" type="github">
   <diagram id="TB_MMp5PjhSIstsyB3hx" name="Page-1">
     <mxGraphModel dx="1185" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -148,7 +148,7 @@
         <mxCell id="3it34dct_bApIvWfjpO9-13" value="" style="shape=mxgraph.signs.food.drinking_water_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;strokeWidth=3;fontSize=7;" vertex="1" parent="3it34dct_bApIvWfjpO9-66">
           <mxGeometry x="14.720000000000027" y="32.5" width="40.55" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3it34dct_bApIvWfjpO9-20" value="Waste&lt;br&gt;Collection" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="3it34dct_bApIvWfjpO9-66">
+        <mxCell id="3it34dct_bApIvWfjpO9-20" value="&lt;i&gt;Waste&lt;br&gt;Collection&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="3it34dct_bApIvWfjpO9-66">
           <mxGeometry width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3it34dct_bApIvWfjpO9-68" value="&lt;div style=&quot;font-weight: 700&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=5;fontColor=#000000;" vertex="1" parent="1">
