@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-01T05:15:44.059Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="QNBP4RoRijAp3BXP8n-p" version="16.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-01T05:18:12.462Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="N8r8ilJKR5oR8dFs-MN_" version="16.4.7" type="github">
   <diagram id="TB_MMp5PjhSIstsyB3hx" name="Page-1">
     <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,8 +79,8 @@
         <mxCell id="3it34dct_bApIvWfjpO9-33" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/elements-icons/75/Icon_Element_Water_01-128.png;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="173" y="823" width="44" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="3it34dct_bApIvWfjpO9-34" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-size: 6px ; line-height: 21px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Monitored Water&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=6;" vertex="1" parent="1">
-          <mxGeometry x="20" y="920" width="100" height="30" as="geometry" />
+        <mxCell id="3it34dct_bApIvWfjpO9-34" value="&lt;span style=&quot;font-size: 6px; line-height: 21px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Monitored Water&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=6;fontStyle=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="35" y="924" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3it34dct_bApIvWfjpO9-35" value="" style="endArrow=classic;html=1;rounded=0;fontSize=6;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#cce5ff;strokeColor=#66B2FF;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="3it34dct_bApIvWfjpO9-33">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -97,11 +97,11 @@
             <mxPoint x="220" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3it34dct_bApIvWfjpO9-38" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;Water Storage&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=6;" vertex="1" parent="1">
-          <mxGeometry x="150" y="870" width="90" height="10" as="geometry" />
+        <mxCell id="3it34dct_bApIvWfjpO9-38" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;Water Storage&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=6;fontStyle=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="145" y="870" width="100" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="3it34dct_bApIvWfjpO9-39" value="&lt;div&gt;&lt;span style=&quot;color: rgb(102 , 102 , 102) ; font-family: &amp;#34;tahoma&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , , , &amp;#34;malgun gothic&amp;#34; , sans-serif ; font-size: 14px ; line-height: 21px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Pollution&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(102 , 102 , 102) ; font-family: &amp;#34;tahoma&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , , , &amp;#34;malgun gothic&amp;#34; , sans-serif ; font-size: 14px ; line-height: 21px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Simulation&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=6;" vertex="1" parent="1">
-          <mxGeometry x="160" y="695" width="80" height="50" as="geometry" />
+        <mxCell id="3it34dct_bApIvWfjpO9-39" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px; line-height: 21px; background-color: rgb(255, 255, 255);&quot;&gt;Pollution&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; line-height: 21px; background-color: rgb(255, 255, 255);&quot;&gt;Simulation&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=6;fontStyle=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="150" y="700" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3it34dct_bApIvWfjpO9-44" value="" style="endArrow=classic;html=1;rounded=0;fontSize=6;strokeColor=#66B2FF;exitX=0;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="3it34dct_bApIvWfjpO9-32">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -135,6 +135,9 @@
         </mxCell>
         <mxCell id="3it34dct_bApIvWfjpO9-49" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="55" y="670" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="3it34dct_bApIvWfjpO9-50" value="&lt;font&gt;&lt;span style=&quot;font-size: 15px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;b&gt;Prepare Pollution Solution&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=6;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="10" y="655" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
