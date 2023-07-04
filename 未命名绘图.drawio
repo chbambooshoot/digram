@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T21:05:13.667Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="GLA6ztppypcC6A6yjXD3" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-04T21:16:34.895Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="6SnmqDG8Be0e3wnoQgZ5" version="21.5.1" type="github">
   <diagram name="第 1 页" id="fnBkCTot6Ez0o81d7CIG">
-    <mxGraphModel dx="2518" dy="1402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="758" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -191,6 +191,18 @@
             <mxPoint x="299" y="571" as="sourcePoint" />
             <mxPoint x="299" y="601" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kYNa-zEm1gCkG2qr6x2S-76" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;PCR&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kYNa-zEm1gCkG2qr6x2S-77" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;PLS&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="287" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kYNa-zEm1gCkG2qr6x2S-78" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;PARAFAC&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="463" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kYNa-zEm1gCkG2qr6x2S-79" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;OP+CNN&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="290" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
