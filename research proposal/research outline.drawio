@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-07T16:27:22.972Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="0JLlA_-alMYQGSStTzDD" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-07T16:31:13.980Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Ow0zCsKwd41XBhRzKXul" version="22.1.17" type="github">
   <diagram name="第 1 页" id="Ug7J9FKKV1W9taiNYJFJ">
-    <mxGraphModel dx="868" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="719" dy="392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,7 +106,10 @@
         <mxCell id="Jn_wPJFBXzApLbr0VtlG-43" value="Tree-based methods" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="415" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Jn_wPJFBXzApLbr0VtlG-49" value="Spectra" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Jn_wPJFBXzApLbr0VtlG-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jn_wPJFBXzApLbr0VtlG-49" target="Jn_wPJFBXzApLbr0VtlG-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn_wPJFBXzApLbr0VtlG-49" value="Spectra&lt;br&gt;with mixed peaks" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="461" y="422.5" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jn_wPJFBXzApLbr0VtlG-50" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Better than PLS&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -114,6 +117,45 @@
         </mxCell>
         <mxCell id="Jn_wPJFBXzApLbr0VtlG-51" value="TCCs/ BRP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="320" y="420" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn_wPJFBXzApLbr0VtlG-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jn_wPJFBXzApLbr0VtlG-52" target="Jn_wPJFBXzApLbr0VtlG-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="438" />
+              <mxPoint x="600" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jn_wPJFBXzApLbr0VtlG-52" value="Overlap&lt;br&gt;unmixing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="417.5" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn_wPJFBXzApLbr0VtlG-55" value="Peak 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="614" y="400.5" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn_wPJFBXzApLbr0VtlG-56" value="Peak 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="614" y="420.5" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn_wPJFBXzApLbr0VtlG-57" value="Peak N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="614" y="450" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn_wPJFBXzApLbr0VtlG-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Jn_wPJFBXzApLbr0VtlG-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="440" as="sourcePoint" />
+            <mxPoint x="624" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="410" />
+              <mxPoint x="614" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jn_wPJFBXzApLbr0VtlG-60" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Jn_wPJFBXzApLbr0VtlG-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="430" as="sourcePoint" />
+            <mxPoint x="560" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jn_wPJFBXzApLbr0VtlG-61" value="..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="614" y="432.5" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
