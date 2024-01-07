@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-07T15:06:24.943Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ghysKe6UpSo66R2FxPry" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-07T15:14:56.760Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="xZUsf0SSn27hRI2hiQ7L" version="22.1.17" type="github">
   <diagram name="第 1 页" id="Ug7J9FKKV1W9taiNYJFJ">
     <mxGraphModel dx="1259" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,9 +23,9 @@
           <mxGeometry x="30" y="395" width="350" height="190" as="geometry" />
         </mxCell>
         <mxCell id="Jn_wPJFBXzApLbr0VtlG-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="454" y="400" width="350" height="190" as="geometry" />
+          <mxGeometry x="454" y="400" width="350" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Jn_wPJFBXzApLbr0VtlG-9" value="Spectrum" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Jn_wPJFBXzApLbr0VtlG-9" value="Spectra" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="244" y="130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jn_wPJFBXzApLbr0VtlG-10" value="Indicators&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
@@ -40,11 +40,11 @@
         <mxCell id="Jn_wPJFBXzApLbr0VtlG-13" value="Collecting at" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="494" y="130" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Jn_wPJFBXzApLbr0VtlG-14" value="Quantitative analysis through mining the correlation between" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="585" width="330" height="30" as="geometry" />
+        <mxCell id="Jn_wPJFBXzApLbr0VtlG-14" value="Quantitative analysis through mining the correlation between Spectra and Indicator" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="40" y="590" width="330" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Jn_wPJFBXzApLbr0VtlG-15" value="EEMs&amp;nbsp;Sampling and water quality analyzing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="464" y="590" width="330" height="30" as="geometry" />
+        <mxCell id="Jn_wPJFBXzApLbr0VtlG-15" value="&lt;div&gt;&lt;span&gt;Deep learning&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;chemometry based on the interpretability&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="461" y="585" width="336" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jn_wPJFBXzApLbr0VtlG-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jn_wPJFBXzApLbr0VtlG-16" target="Jn_wPJFBXzApLbr0VtlG-7">
           <mxGeometry relative="1" as="geometry">
