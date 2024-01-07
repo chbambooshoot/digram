@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-01-07T14:59:06.779Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="OmjBZ4LQ4nSxOtlXSH3e" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-07T15:02:40.194Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="MwWqw3-zFPReKGfkg47w" version="22.1.17" type="github">
   <diagram name="第 1 页" id="Ug7J9FKKV1W9taiNYJFJ">
     <mxGraphModel dx="1259" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Jn_wPJFBXzApLbr0VtlG-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jn_wPJFBXzApLbr0VtlG-2" target="Jn_wPJFBXzApLbr0VtlG-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Jn_wPJFBXzApLbr0VtlG-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="214" y="110" width="400" height="160" as="geometry" />
         </mxCell>
@@ -17,10 +20,10 @@
           <mxGeometry x="454" y="170" width="150" height="55" as="geometry" />
         </mxCell>
         <mxCell id="Jn_wPJFBXzApLbr0VtlG-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="350" width="350" height="190" as="geometry" />
+          <mxGeometry x="30" y="395" width="350" height="190" as="geometry" />
         </mxCell>
         <mxCell id="Jn_wPJFBXzApLbr0VtlG-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="350" width="350" height="190" as="geometry" />
+          <mxGeometry x="454" y="400" width="350" height="190" as="geometry" />
         </mxCell>
         <mxCell id="Jn_wPJFBXzApLbr0VtlG-9" value="Spectrum" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="244" y="140" width="60" height="30" as="geometry" />
@@ -36,6 +39,29 @@
         </mxCell>
         <mxCell id="Jn_wPJFBXzApLbr0VtlG-13" value="Collecting at" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="494" y="140" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn_wPJFBXzApLbr0VtlG-14" value="Quantitative analysis through mining the correlation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="585" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn_wPJFBXzApLbr0VtlG-15" value="EEMs&amp;nbsp;Sampling and water quality analyzing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="464" y="590" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn_wPJFBXzApLbr0VtlG-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jn_wPJFBXzApLbr0VtlG-16" target="Jn_wPJFBXzApLbr0VtlG-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="370" />
+              <mxPoint x="205" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jn_wPJFBXzApLbr0VtlG-16" value="&lt;b&gt;A soft sensor for microbial water quality coupled&lt;br/&gt;with 3D-fluorescence and machine learning in water reuse applications&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="189" y="300" width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn_wPJFBXzApLbr0VtlG-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Jn_wPJFBXzApLbr0VtlG-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="370" as="sourcePoint" />
+            <mxPoint x="215" y="405" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
