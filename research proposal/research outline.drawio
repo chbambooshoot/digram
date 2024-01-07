@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-07T15:17:12.066Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="h3HTQVM3Qtgzw21wDhKc" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-07T15:19:41.066Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="tdX1WmT0QCzXlgACgR6t" version="22.1.17" type="github">
   <diagram name="第 1 页" id="Ug7J9FKKV1W9taiNYJFJ">
     <mxGraphModel dx="1325" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="Jn_wPJFBXzApLbr0VtlG-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jn_wPJFBXzApLbr0VtlG-2" target="Jn_wPJFBXzApLbr0VtlG-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Jn_wPJFBXzApLbr0VtlG-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Jn_wPJFBXzApLbr0VtlG-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="214" y="100" width="400" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Jn_wPJFBXzApLbr0VtlG-3" value="Absorption&lt;br&gt;3D&amp;nbsp;fluorescence" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -31,20 +31,20 @@
         <mxCell id="Jn_wPJFBXzApLbr0VtlG-10" value="Indicators&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="359" y="180" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Jn_wPJFBXzApLbr0VtlG-11" value="EEMs&amp;nbsp;Sampling and water quality analyzing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Jn_wPJFBXzApLbr0VtlG-11" value="EEMs&amp;nbsp;Sampling and water quality analyzing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3" vertex="1" parent="1">
           <mxGeometry x="244" y="70" width="330" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jn_wPJFBXzApLbr0VtlG-12" value="TCCs&lt;br&gt;Type of&amp;nbsp;bacterium&lt;br&gt;Regrowth Potential" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="334" y="202" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Jn_wPJFBXzApLbr0VtlG-13" value="Collecting at" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="494" y="130" width="86" height="30" as="geometry" />
+          <mxGeometry x="494" y="130" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jn_wPJFBXzApLbr0VtlG-14" value="Quantitative analysis through mining the correlation between Spectra and Indicator" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3" vertex="1" parent="1">
           <mxGeometry x="40" y="570" width="330" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Jn_wPJFBXzApLbr0VtlG-15" value="&lt;div&gt;&lt;span&gt;Deep learning&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;chemometry based on the interpretability&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3" vertex="1" parent="1">
-          <mxGeometry x="461" y="560" width="336" height="30" as="geometry" />
+        <mxCell id="Jn_wPJFBXzApLbr0VtlG-15" value="&lt;div&gt;&lt;span&gt;Deep learning&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;chemometry based on spectral interpretability&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="461" y="569.5" width="336" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jn_wPJFBXzApLbr0VtlG-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jn_wPJFBXzApLbr0VtlG-16" target="Jn_wPJFBXzApLbr0VtlG-7">
           <mxGeometry relative="1" as="geometry">
@@ -54,7 +54,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Jn_wPJFBXzApLbr0VtlG-16" value="&lt;b&gt;A soft sensor for microbial water quality coupled&lt;br/&gt;with 3D-fluorescence and machine learning in water reuse applications&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Jn_wPJFBXzApLbr0VtlG-16" value="&lt;b&gt;A soft sensor for microbial water quality coupled&lt;br/&gt;with 3D-fluorescence and machine learning in water reuse applications&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="189" y="300" width="450" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Jn_wPJFBXzApLbr0VtlG-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Jn_wPJFBXzApLbr0VtlG-8">
