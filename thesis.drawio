@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-14T19:00:43.331Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="5sV9HIhaYSM5ZEjawEbO" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-14T19:03:06.985Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="LYNPN_C0RI3VytYhjG2r" version="22.1.17" type="github">
   <diagram name="第 1 页" id="NifZxuRxoJgHwt1wx93L">
-    <mxGraphModel dx="719" dy="392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1049" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,14 +94,20 @@
         <mxCell id="kWHdFcT8Xwx73oENcEn5-39" value="无谱图识别的意义与零样本方法" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="632" y="315" width="210" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="kWHdFcT8Xwx73oENcEn5-76" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="347" y="375.5" width="200" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="kWHdFcT8Xwx73oENcEn5-40" value="提出正交投影校正层" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="347" y="320" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kWHdFcT8Xwx73oENcEn5-41" value="CBAM注意力机制" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="347" y="377" width="93" height="40" as="geometry" />
+          <mxGeometry x="351" y="382" width="93" height="27" as="geometry" />
         </mxCell>
         <mxCell id="kWHdFcT8Xwx73oENcEn5-42" value="网络结构优化" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="454" y="377" width="93" height="40" as="geometry" />
+          <mxGeometry x="448" y="382" width="93" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="kWHdFcT8Xwx73oENcEn5-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kWHdFcT8Xwx73oENcEn5-50" target="kWHdFcT8Xwx73oENcEn5-51">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kWHdFcT8Xwx73oENcEn5-50" value="10种特征污染物在不同背景的实验" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="347" y="433" width="200" height="40" as="geometry" />
@@ -166,6 +172,18 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="750" y="417.69" as="sourcePoint" />
             <mxPoint x="750" y="499.31" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWHdFcT8Xwx73oENcEn5-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="447" y="416" as="sourcePoint" />
+            <mxPoint x="447" y="433" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWHdFcT8Xwx73oENcEn5-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="447" y="360" as="sourcePoint" />
+            <mxPoint x="447" y="376" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
