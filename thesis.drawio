@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-14T19:05:03.663Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="aTLsyAjFnfagJjUIVEPI" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-14T19:05:44.321Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="g3X3nnxM1DFexwYIEc9t" version="22.1.17" type="github">
   <diagram name="第 1 页" id="NifZxuRxoJgHwt1wx93L">
-    <mxGraphModel dx="289" dy="158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="719" dy="392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,27 +72,6 @@
         </mxCell>
         <mxCell id="kWHdFcT8Xwx73oENcEn5-30" value="如何识别UKCs污染物" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=仿宋;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="670" y="210" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="kWHdFcT8Xwx73oENcEn5-36" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="37" y="255" width="240" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="kWHdFcT8Xwx73oENcEn5-6" value="&lt;font style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;面向未知有机物影响的特征污染物开集识别模型&lt;br&gt;（第三章）&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=15;" vertex="1" parent="kWHdFcT8Xwx73oENcEn5-36">
-          <mxGeometry width="240" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="kWHdFcT8Xwx73oENcEn5-26" value="开集识别的定义" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1" vertex="1" parent="kWHdFcT8Xwx73oENcEn5-36">
-          <mxGeometry x="13" y="65" width="210" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="kWHdFcT8Xwx73oENcEn5-32" value="中心化度量学习" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1" vertex="1" parent="kWHdFcT8Xwx73oENcEn5-36">
-          <mxGeometry x="15" y="135" width="97" height="22" as="geometry" />
-        </mxCell>
-        <mxCell id="kWHdFcT8Xwx73oENcEn5-33" value="EVM" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1" vertex="1" parent="kWHdFcT8Xwx73oENcEn5-36">
-          <mxGeometry x="143" y="135" width="57" height="22" as="geometry" />
-        </mxCell>
-        <mxCell id="kWHdFcT8Xwx73oENcEn5-34" value="18种管网水特征污染物实验" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1" vertex="1" parent="kWHdFcT8Xwx73oENcEn5-36">
-          <mxGeometry x="15" y="178" width="210" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="kWHdFcT8Xwx73oENcEn5-35" value="讨论与对比" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1" vertex="1" parent="kWHdFcT8Xwx73oENcEn5-36">
-          <mxGeometry x="15" y="235" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kWHdFcT8Xwx73oENcEn5-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kWHdFcT8Xwx73oENcEn5-39" target="kWHdFcT8Xwx73oENcEn5-63">
           <mxGeometry relative="1" as="geometry" />
@@ -194,6 +173,30 @@
         </mxCell>
         <mxCell id="kWHdFcT8Xwx73oENcEn5-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kWHdFcT8Xwx73oENcEn5-6" target="kWHdFcT8Xwx73oENcEn5-10">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kWHdFcT8Xwx73oENcEn5-6" value="&lt;font style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;面向未知有机物影响的特征污染物开集识别模型&lt;br&gt;（第三章）&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="37" y="255" width="240" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="kWHdFcT8Xwx73oENcEn5-26" value="开集识别的定义" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="50" y="320" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kWHdFcT8Xwx73oENcEn5-32" value="中心化度量学习" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="62" y="390" width="97" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="kWHdFcT8Xwx73oENcEn5-33" value="EVM" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="180" y="390" width="57" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="kWHdFcT8Xwx73oENcEn5-34" value="18种管网水特征污染物实验" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="52" y="433" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kWHdFcT8Xwx73oENcEn5-35" value="讨论与对比" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="52" y="490" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kWHdFcT8Xwx73oENcEn5-91" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kWHdFcT8Xwx73oENcEn5-32" target="kWHdFcT8Xwx73oENcEn5-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="450" as="sourcePoint" />
+            <mxPoint x="180" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
