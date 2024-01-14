@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-01-14T18:17:29.424Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="WI7DsF348sZYjLtI7TdQ" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-14T18:18:58.584Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="UnNz0XdNQFDOB-ODEhg8" version="22.1.17" type="github">
   <diagram name="第 1 页" id="NifZxuRxoJgHwt1wx93L">
     <mxGraphModel dx="1481" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kWHdFcT8Xwx73oENcEn5-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;" vertex="1" parent="1">
-          <mxGeometry x="200" y="90" width="500" height="110" as="geometry" />
+        <mxCell id="kWHdFcT8Xwx73oENcEn5-5" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;span style=&quot;text-indent: 0cm; background-color: initial;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;基于卷积神经网络的三维荧光有机物识别框架（第二章）&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;h1 style=&quot;text-indent:0cm;mso-list:l0 level1 lfo1&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;" vertex="1" parent="1">
+          <mxGeometry x="170" y="90" width="540" height="110" as="geometry" />
         </mxCell>
         <mxCell id="kWHdFcT8Xwx73oENcEn5-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;" vertex="1" parent="1">
           <mxGeometry x="70" y="240" width="220" height="300" as="geometry" />
