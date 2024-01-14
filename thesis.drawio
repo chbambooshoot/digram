@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-14T19:12:26.297Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="b-iWjxgPD1bLm0SM1ZmN" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-14T20:04:48.828Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="aS2VLNqbAUCgCxsz6pF9" version="22.1.17" type="github">
   <diagram name="第 1 页" id="NifZxuRxoJgHwt1wx93L">
     <mxGraphModel dx="1049" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,7 +36,7 @@
         <mxCell id="kWHdFcT8Xwx73oENcEn5-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kWHdFcT8Xwx73oENcEn5-12" target="kWHdFcT8Xwx73oENcEn5-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kWHdFcT8Xwx73oENcEn5-12" value="&lt;font face=&quot;仿宋&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;算法识别框架&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kWHdFcT8Xwx73oENcEn5-12" value="&lt;font face=&quot;仿宋&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;识别框架&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="120" width="75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kWHdFcT8Xwx73oENcEn5-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kWHdFcT8Xwx73oENcEn5-13" target="kWHdFcT8Xwx73oENcEn5-14">
@@ -45,8 +45,8 @@
         <mxCell id="kWHdFcT8Xwx73oENcEn5-13" value="&lt;font face=&quot;仿宋&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;自动采样实验平台&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="120" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kWHdFcT8Xwx73oENcEn5-14" value="&lt;font face=&quot;仿宋&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;识别框架KKCs有效性验证&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="120" width="110" height="60" as="geometry" />
+        <mxCell id="kWHdFcT8Xwx73oENcEn5-14" value="&lt;font face=&quot;仿宋&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;框架对于库内污染物识别有效&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="120" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kWHdFcT8Xwx73oENcEn5-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="kWHdFcT8Xwx73oENcEn5-6">
           <mxGeometry relative="1" as="geometry">
@@ -58,14 +58,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kWHdFcT8Xwx73oENcEn5-27" value="如何排除UUCs干扰" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=仿宋;fontStyle=1;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="107" y="210" width="100" height="30" as="geometry" />
+        <mxCell id="kWHdFcT8Xwx73oENcEn5-27" value="如何排除未知污染物干扰" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=仿宋;fontStyle=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="107" y="210" width="83" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kWHdFcT8Xwx73oENcEn5-28" value="如何克服KUCs导致分布差异" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=仿宋;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="357.5" y="210" width="155" height="30" as="geometry" />
+        <mxCell id="kWHdFcT8Xwx73oENcEn5-28" value="如何克服不同背景下污染物的分布差异" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=仿宋;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="375.75" y="210" width="142.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kWHdFcT8Xwx73oENcEn5-30" value="如何识别UKCs污染物" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=仿宋;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="670" y="210" width="120" height="30" as="geometry" />
+        <mxCell id="kWHdFcT8Xwx73oENcEn5-30" value="如何识别无谱图的库外污染物" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=仿宋;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="677" y="210" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kWHdFcT8Xwx73oENcEn5-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kWHdFcT8Xwx73oENcEn5-6" target="kWHdFcT8Xwx73oENcEn5-10">
           <mxGeometry relative="1" as="geometry" />
