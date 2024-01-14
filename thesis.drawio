@@ -1,23 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2024-01-14T18:24:08.920Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="-nveh2DzdsGkwWQ2uKvD" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-14T18:27:01.173Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="vFNkn1BcHxjWIO-07abM" version="22.1.17" type="github">
   <diagram name="第 1 页" id="NifZxuRxoJgHwt1wx93L">
-    <mxGraphModel dx="1259" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1481" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kWHdFcT8Xwx73oENcEn5-5" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;span style=&quot;text-indent: 0cm; background-color: initial;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;基于卷积神经网络的三维荧光有机物识别框架（第二章）&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;h1 style=&quot;text-indent:0cm;mso-list:l0 level1 lfo1&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;" vertex="1" parent="1">
-          <mxGeometry x="170" y="70" width="530" height="130" as="geometry" />
+        <mxCell id="kWHdFcT8Xwx73oENcEn5-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kWHdFcT8Xwx73oENcEn5-5" target="kWHdFcT8Xwx73oENcEn5-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kWHdFcT8Xwx73oENcEn5-6" value="&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); font-size: 20px;&quot;&gt;面向未知有机物影响的特征污染物开集识别模型（第三章）&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;" vertex="1" parent="1">
+        <mxCell id="kWHdFcT8Xwx73oENcEn5-5" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;span style=&quot;text-indent: 0cm; background-color: initial;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;基于卷积神经网络的三维荧光有机物识别框架（第二章）&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;h1 style=&quot;text-indent:0cm;mso-list:l0 level1 lfo1&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;" vertex="1" parent="1">
+          <mxGeometry x="130" y="70" width="610" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="kWHdFcT8Xwx73oENcEn5-6" value="&lt;font style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;面向未知有机物影响的特征污染物开集识别模型&lt;br&gt;（第三章）&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="50" y="240" width="240" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="kWHdFcT8Xwx73oENcEn5-8" value="&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); font-size: 20px;&quot;&gt;面向水质背景差异的三维荧光特征污染物识别研究&lt;br&gt;（第四章）&lt;br&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/b&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;" vertex="1" parent="1">
+        <mxCell id="kWHdFcT8Xwx73oENcEn5-8" value="&lt;font style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;面向水质背景差异的三维荧光特征污染物识别研究&lt;br style=&quot;font-size: 15px;&quot;&gt;（第四章）&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;/b&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="315" y="240" width="240" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="kWHdFcT8Xwx73oENcEn5-9" value="&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); font-size: 20px;&quot;&gt;面向无参考谱图的特征污染物零样本识别研究&lt;br&gt;（第五章）&lt;br&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/b&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;" vertex="1" parent="1">
+        <mxCell id="kWHdFcT8Xwx73oENcEn5-9" value="&lt;font style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;面向无参考谱图的特征污染物零样本识别研究&lt;br style=&quot;font-size: 15px;&quot;&gt;（第五章）&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;/b&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="580" y="240" width="240" height="300" as="geometry" />
         </mxCell>
         <mxCell id="kWHdFcT8Xwx73oENcEn5-10" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;总结与展望（第六章）&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;" vertex="1" parent="1">
-          <mxGeometry x="310" y="584" width="250" height="70" as="geometry" />
+          <mxGeometry x="260" y="585" width="410" height="36" as="geometry" />
         </mxCell>
         <mxCell id="kWHdFcT8Xwx73oENcEn5-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kWHdFcT8Xwx73oENcEn5-11" target="kWHdFcT8Xwx73oENcEn5-12">
           <mxGeometry relative="1" as="geometry" />
@@ -39,6 +42,21 @@
         </mxCell>
         <mxCell id="kWHdFcT8Xwx73oENcEn5-14" value="&lt;font face=&quot;仿宋&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;识别框架有效性验证&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="120" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kWHdFcT8Xwx73oENcEn5-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.066;exitY=0.998;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="kWHdFcT8Xwx73oENcEn5-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="210" as="sourcePoint" />
+            <mxPoint x="170" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWHdFcT8Xwx73oENcEn5-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="kWHdFcT8Xwx73oENcEn5-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="200" as="sourcePoint" />
+            <mxPoint x="680" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="700" y="200" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
