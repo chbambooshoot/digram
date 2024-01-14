@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-14T19:06:49.407Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="sy1QP94CCFAfKIOe3WNo" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-14T19:08:13.599Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="77R5Q52wQtWrlYr6XISf" version="22.1.17" type="github">
   <diagram name="第 1 页" id="NifZxuRxoJgHwt1wx93L">
-    <mxGraphModel dx="350" dy="191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1259" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -177,8 +177,16 @@
         <mxCell id="kWHdFcT8Xwx73oENcEn5-6" value="&lt;font style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;面向未知有机物影响的特征污染物开集识别模型&lt;br&gt;（第三章）&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="37" y="255" width="240" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="kWHdFcT8Xwx73oENcEn5-92" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="kWHdFcT8Xwx73oENcEn5-92" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="377" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kWHdFcT8Xwx73oENcEn5-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kWHdFcT8Xwx73oENcEn5-92" target="kWHdFcT8Xwx73oENcEn5-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="155" y="420" />
+              <mxPoint x="155" y="420" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="kWHdFcT8Xwx73oENcEn5-26" value="开集识别的定义" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="50" y="320" width="210" height="40" as="geometry" />
@@ -188,6 +196,9 @@
         </mxCell>
         <mxCell id="kWHdFcT8Xwx73oENcEn5-33" value="EVM" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="180" y="387" width="57" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="kWHdFcT8Xwx73oENcEn5-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kWHdFcT8Xwx73oENcEn5-34" target="kWHdFcT8Xwx73oENcEn5-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kWHdFcT8Xwx73oENcEn5-34" value="18种管网水特征污染物实验" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="50" y="433" width="210" height="40" as="geometry" />
@@ -199,6 +210,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="130" y="450" as="sourcePoint" />
             <mxPoint x="180" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kWHdFcT8Xwx73oENcEn5-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kWHdFcT8Xwx73oENcEn5-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="156" y="361" as="sourcePoint" />
+            <mxPoint x="156" y="377" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="156" y="360" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
