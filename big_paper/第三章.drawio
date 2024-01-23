@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-23T06:19:41.729Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ZMXyd0uUf23XAD0Ptk4t" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-23T06:19:58.668Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="fRe5MHMHiRYSRh8bxMCD" version="22.1.18" type="github">
   <diagram name="第 1 页" id="fnBkCTot6Ez0o81d7CIG">
     <mxGraphModel dx="2401" dy="2027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -153,6 +153,12 @@
         </mxCell>
         <mxCell id="RQuAEKyiK-EMNLNWBClG-34" value="选择主元数" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;fontStyle=1;fontFamily=仿宋;" vertex="1" parent="1">
           <mxGeometry x="119.5" y="610" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RQuAEKyiK-EMNLNWBClG-35" value="选择主元数" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;fontStyle=1;fontFamily=仿宋;" vertex="1" parent="1">
+          <mxGeometry x="233" y="610" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RQuAEKyiK-EMNLNWBClG-36" value="选择主元数" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;fontStyle=1;fontFamily=仿宋;" vertex="1" parent="1">
+          <mxGeometry x="346.5" y="610" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
