@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T07:22:27.695Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="jUTpUrQ26Sf1KYOeghpd" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-27T07:28:51.186Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="vx8VEU6DO83fYw0OaQrf" version="23.0.2" type="github">
   <diagram name="第 1 页" id="z8eI_ewDGcZsHXTTSjY8">
     <mxGraphModel dx="1450" dy="1007" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,32 +49,41 @@
         <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-13" value="Evaluation&amp;nbsp;of the microbial regrowth potential" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="336" y="110" width="232" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-15" value="Establish&amp;nbsp;a &lt;span style=&quot;font-size: 12pt;&quot; lang=&quot;EN-US&quot;&gt;3D-FEEMs &lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:PMingLiU;mso-font-kerning:1.0pt;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;fingerprint database&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-15" value="&lt;b&gt;Task 1 &lt;/b&gt;Establish&amp;nbsp;a &lt;span style=&quot;font-size: 12pt;&quot; lang=&quot;EN-US&quot;&gt;3D-FEEMs &lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:PMingLiU;mso-font-kerning:1.0pt;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;fingerprint database&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="-87" y="197" width="647" height="34" as="geometry" />
         </mxCell>
         <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-18" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fontFamily=Times New Roman;" edge="1" parent="1" source="Wu0rOCcyRxzjaYJ3d4_N-16" target="Wu0rOCcyRxzjaYJ3d4_N-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-16" value="Feature extraction" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-16" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Task 2&amp;nbsp;&lt;/b&gt;Feature extraction" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="-87" y="243" width="174" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-17" value="" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="169" y="243" width="386" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-20" value="Mapping Model Construction" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="236" y="243" width="263" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-21" value="Identification: Similarity&amp;nbsp;comparison" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="184" y="273" width="164" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-22" value="Quantitative: &lt;br&gt;Regression" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="362" y="273" width="185" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-24" value="Developing a software system for microbial contamination detection and microbial&amp;nbsp;regrowth potential prediction&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-24" value="&lt;b&gt;Task 5 &lt;/b&gt;Developing a software system for microbial contamination detection and microbial&amp;nbsp;regrowth potential prediction&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="-87" y="340" width="647" height="51" as="geometry" />
         </mxCell>
         <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-29" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;a style=&quot;border-color: var(--border-color); text-align: left;&quot; name=&quot;OLE_LINK8&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Developing a soft&amp;nbsp;sensor for microbial contamination coupled with 3D-fluorescence and&amp;nbsp;&lt;/b&gt;&lt;/a&gt;&lt;a style=&quot;border-color: var(--border-color); text-align: left;&quot; name=&quot;OLE_LINK13&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;deep learning&lt;/b&gt;&lt;/a&gt;&lt;span style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color);&quot; lang=&quot;EN-US&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color);&quot; lang=&quot;EN-US&quot;&gt;to monitor water&amp;nbsp;reuse applications&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-190" y="-49" width="774" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-32" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="104" y="246" width="354" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-17" value="" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" vertex="1" parent="Wu0rOCcyRxzjaYJ3d4_N-32">
+          <mxGeometry width="327" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-20" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Task 3&amp;nbsp;&lt;/b&gt;Mapping Model Construction" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="Wu0rOCcyRxzjaYJ3d4_N-32">
+          <mxGeometry x="61.44559585492228" width="241.19689119170985" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-21" value="Identification: Similarity&amp;nbsp;comparison" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="Wu0rOCcyRxzjaYJ3d4_N-32">
+          <mxGeometry x="13.756476683937825" y="30" width="150.40414507772022" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-22" value="Quantitative: &lt;br&gt;Regression" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="Wu0rOCcyRxzjaYJ3d4_N-32">
+          <mxGeometry x="177" y="30" width="132" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-33" value="Task 4&amp;nbsp;" style="whiteSpace=wrap;html=1;fontSize=16;fontFamily=Times New Roman;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="246" width="120" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-34" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Wu0rOCcyRxzjaYJ3d4_N-17" target="Wu0rOCcyRxzjaYJ3d4_N-33">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
