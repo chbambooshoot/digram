@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T07:29:10.962Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="0V0ApjaU0KT9hdeugRrQ" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-27T07:30:02.842Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="GFGzLDC06lXQ-hwPTWG_" version="23.0.2" type="github">
   <diagram name="第 1 页" id="z8eI_ewDGcZsHXTTSjY8">
     <mxGraphModel dx="1450" dy="1007" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,7 +55,7 @@
         <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-18" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fontFamily=Times New Roman;" edge="1" parent="1" source="Wu0rOCcyRxzjaYJ3d4_N-16" target="Wu0rOCcyRxzjaYJ3d4_N-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-16" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Task 2&amp;nbsp;&lt;/b&gt;Feature extraction" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-16" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Task 2 &lt;/b&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;Study&amp;nbsp;&lt;/span&gt;Feature extraction method&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="-87" y="243" width="174" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-24" value="&lt;b&gt;Task 5 &lt;/b&gt;Developing a software system for microbial contamination detection and microbial&amp;nbsp;regrowth potential prediction&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" vertex="1" parent="1">
@@ -70,14 +70,14 @@
         <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-17" value="" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" vertex="1" parent="Wu0rOCcyRxzjaYJ3d4_N-32">
           <mxGeometry width="327" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-20" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Task 3&amp;nbsp;&lt;/b&gt;Mapping Model Construction" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="Wu0rOCcyRxzjaYJ3d4_N-32">
-          <mxGeometry x="61.44559585492228" width="241.19689119170985" height="30" as="geometry" />
+        <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-20" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Task 3&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;Study&amp;nbsp;&lt;/span&gt;Mapping Model Construction" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="Wu0rOCcyRxzjaYJ3d4_N-32">
+          <mxGeometry x="42.90559585492228" width="241.19689119170985" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-21" value="Identification: Similarity&amp;nbsp;comparison" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="Wu0rOCcyRxzjaYJ3d4_N-32">
-          <mxGeometry x="13.756476683937825" y="30" width="150.40414507772022" height="43" as="geometry" />
+          <mxGeometry x="13.756476683937825" y="34" width="150.40414507772022" height="43" as="geometry" />
         </mxCell>
         <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-22" value="Quantitative: &lt;br&gt;Regression" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="Wu0rOCcyRxzjaYJ3d4_N-32">
-          <mxGeometry x="177" y="30" width="132" height="43" as="geometry" />
+          <mxGeometry x="177" y="34" width="132" height="43" as="geometry" />
         </mxCell>
         <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-33" value="&lt;b&gt;Task 4&amp;nbsp;&lt;/b&gt;Predict&lt;br/&gt;microbial regrowth potential" style="whiteSpace=wrap;html=1;fontSize=16;fontFamily=Times New Roman;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="445" y="246" width="120" height="82" as="geometry" />
