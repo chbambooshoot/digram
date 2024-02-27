@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T07:10:07.960Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="3BavxNaLgRpvTBxvq93M" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-27T07:12:38.461Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Tq_H7yIaBLvxcwGohaNq" version="23.0.2" type="github">
   <diagram name="第 1 页" id="z8eI_ewDGcZsHXTTSjY8">
     <mxGraphModel dx="1450" dy="607" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,11 +46,20 @@
         <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-18" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Wu0rOCcyRxzjaYJ3d4_N-16" target="Wu0rOCcyRxzjaYJ3d4_N-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-16" value="Feature extraction" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-87" y="243" width="174" height="60" as="geometry" />
+        <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-16" value="Feature extraction" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="-87" y="243" width="174" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-17" value="" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="169" y="243" width="386" height="60" as="geometry" />
+        <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-17" value="" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="169" y="243" width="386" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-20" value="Mapping Model Construction" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="236" y="243" width="263" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-21" value="Identification: Similarity&amp;nbsp;comparison" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="184" y="273" width="164" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-22" value="Quantitative: &lt;br&gt;Regression" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="362" y="273" width="185" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
