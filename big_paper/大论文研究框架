@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-28T18:24:00.253Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="GNYc6bzC4KS3-GDt1Wqo" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-28T18:26:02.974Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="WSdZ1mZSJ8ENCB2aLk3E" version="24.0.7" type="github">
   <diagram name="第 1 页" id="Nxa34ZbZTM8_C-55fDrx">
-    <mxGraphModel dx="1912" dy="1029" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1103" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -161,6 +161,39 @@
             <Array as="points">
               <mxPoint x="163.3" y="789.4" />
               <mxPoint x="163.3" y="789.4" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDhGtZMp2TMjq9oy1IM1-88" value="注意力机制" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="303" y="676.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DDhGtZMp2TMjq9oy1IM1-89" value="正交投影校正层" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="303" y="610" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DDhGtZMp2TMjq9oy1IM1-92" value="网络优化" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="303" y="739" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DDhGtZMp2TMjq9oy1IM1-93" value="特征污染物在不同水体背景中的建模迁移&lt;span style=&quot;background-color: initial;&quot;&gt;实验&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="303" y="797" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DDhGtZMp2TMjq9oy1IM1-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DDhGtZMp2TMjq9oy1IM1-88" target="DDhGtZMp2TMjq9oy1IM1-92">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="403" y="720" as="sourcePoint" />
+            <mxPoint x="403" y="723" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDhGtZMp2TMjq9oy1IM1-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="DDhGtZMp2TMjq9oy1IM1-88">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="403" y="650" as="sourcePoint" />
+            <mxPoint x="403" y="666" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDhGtZMp2TMjq9oy1IM1-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="1" source="DDhGtZMp2TMjq9oy1IM1-92">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="404.04" y="781" as="sourcePoint" />
+            <mxPoint x="404.04" y="797" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="404" y="779" />
             </Array>
           </mxGeometry>
         </mxCell>
