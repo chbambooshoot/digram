@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-28T18:20:35.498Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="QFOo7Oi3nD1Fi_42MLG5" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-28T18:24:00.253Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="GNYc6bzC4KS3-GDt1Wqo" version="24.0.7" type="github">
   <diagram name="第 1 页" id="Nxa34ZbZTM8_C-55fDrx">
-    <mxGraphModel dx="1593" dy="858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1912" dy="1029" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -124,6 +124,45 @@
         </mxCell>
         <mxCell id="DDhGtZMp2TMjq9oy1IM1-66" value="&lt;font face=&quot;仿宋&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;如何识别库外污染物（UKCs的识别）&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="575" y="458" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DDhGtZMp2TMjq9oy1IM1-78" value="中心化度量学习可识别&lt;div&gt;特征提取&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="58.47" y="675.55" width="210" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="DDhGtZMp2TMjq9oy1IM1-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DDhGtZMp2TMjq9oy1IM1-78" target="DDhGtZMp2TMjq9oy1IM1-83">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="163.47" y="725" />
+              <mxPoint x="163.47" y="725" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDhGtZMp2TMjq9oy1IM1-80" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;未知有机物的影响&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="59.47" y="610" width="210" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="DDhGtZMp2TMjq9oy1IM1-83" value="建立基于极值理论的判别模型" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="58.47" y="739.95" width="210" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="DDhGtZMp2TMjq9oy1IM1-84" value="18种特征污染物开集识别实验" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="58.47" y="798.5" width="210" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="DDhGtZMp2TMjq9oy1IM1-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DDhGtZMp2TMjq9oy1IM1-80">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="164.47" y="657.15" as="sourcePoint" />
+            <mxPoint x="164.47" y="675.55" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="164.47" y="656" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDhGtZMp2TMjq9oy1IM1-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="163.3" y="785.95" as="sourcePoint" />
+            <mxPoint x="163.47" y="798.25" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="163.3" y="789.4" />
+              <mxPoint x="163.3" y="789.4" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
