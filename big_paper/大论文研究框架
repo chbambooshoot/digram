@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-21T22:11:19.356Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="xy_Sor73lE7oP6Kg9s_r" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-21T22:11:29.049Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="iZgQ3E66cBhFQPA0eo3d" version="24.2.5" type="github">
   <diagram name="第 1 页" id="Nxa34ZbZTM8_C-55fDrx">
     <mxGraphModel dx="2607" dy="1404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="37.53" y="463" width="230" height="350" as="geometry" />
         </mxCell>
         <mxCell id="DDhGtZMp2TMjq9oy1IM1-1" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;基于深度学习的三维荧光光谱特征污染物识别方法研究&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="100" y="40" width="600" height="40" as="geometry" />
+          <mxGeometry x="50" y="40" width="710" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DDhGtZMp2TMjq9oy1IM1-56" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="DDhGtZMp2TMjq9oy1IM1-115" target="DDhGtZMp2TMjq9oy1IM1-70" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
