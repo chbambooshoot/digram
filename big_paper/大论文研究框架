@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T12:57:00.690Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="DbbmO489HNTW03Zhdy3-" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-25T12:58:27.291Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="o6tgSDzEeOr8B21DgJ9_" version="24.2.7" type="github">
   <diagram name="第 1 页" id="Nxa34ZbZTM8_C-55fDrx">
     <mxGraphModel dx="2049" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -54,7 +54,7 @@
         <mxCell id="DDhGtZMp2TMjq9oy1IM1-64" value="&lt;font face=&quot;仿宋&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;如何克服未知污染物干扰&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: 仿宋; font-size: 15px;&quot;&gt;（UUCs干扰）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="79.53" y="415.44" width="146" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DDhGtZMp2TMjq9oy1IM1-78" value="中心化度量学习可识别&lt;div&gt;特征提取&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1;fontSize=17;" parent="1" vertex="1">
+        <mxCell id="DDhGtZMp2TMjq9oy1IM1-78" value="中心化度量学习&lt;span style=&quot;background-color: initial;&quot;&gt;特征提取&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="47.53" y="624.55" width="210" height="46" as="geometry" />
         </mxCell>
         <mxCell id="DDhGtZMp2TMjq9oy1IM1-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="DDhGtZMp2TMjq9oy1IM1-78" target="DDhGtZMp2TMjq9oy1IM1-83" edge="1">
@@ -68,10 +68,10 @@
         <mxCell id="DDhGtZMp2TMjq9oy1IM1-80" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;未知有机物的影响&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="48.53" y="559" width="210" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="DDhGtZMp2TMjq9oy1IM1-83" value="建立基于极值理论的判别模型" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="DDhGtZMp2TMjq9oy1IM1-83" value="基于极值理论的判别模型" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="47.53" y="688.95" width="210" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="DDhGtZMp2TMjq9oy1IM1-84" value="18种特征污染物开集识别实验" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="DDhGtZMp2TMjq9oy1IM1-84" value="特征污染物开集识别实验" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="47.53" y="747.5" width="210" height="46" as="geometry" />
         </mxCell>
         <mxCell id="DDhGtZMp2TMjq9oy1IM1-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="DDhGtZMp2TMjq9oy1IM1-80" edge="1">
@@ -102,7 +102,7 @@
         <mxCell id="DDhGtZMp2TMjq9oy1IM1-92" value="暂退法防止过拟合" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="302.03" y="687" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DDhGtZMp2TMjq9oy1IM1-93" value="特征污染物在不同水体背景污染物中的建模和测试" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="DDhGtZMp2TMjq9oy1IM1-93" value="特征污染物在不同水体背景中的建模和测试" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="302.03" y="745" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DDhGtZMp2TMjq9oy1IM1-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="DDhGtZMp2TMjq9oy1IM1-88" target="DDhGtZMp2TMjq9oy1IM1-92" edge="1">
