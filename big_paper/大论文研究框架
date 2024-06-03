@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T11:03:40.341Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="8iuUbbnVQcmRYElnRIAm" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T11:06:24.551Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="6Hq2zbU-tkFjTU4gpT1k" version="24.4.13" type="github">
   <diagram name="第 1 页" id="Nxa34ZbZTM8_C-55fDrx">
-    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -152,7 +152,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dXvfXuFkl9q_pHHjsJs2-2" value="&lt;font face=&quot;仿宋&quot; style=&quot;font-size: 20px;&quot;&gt;挑战&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;labelBackgroundColor=default;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="19.99999999999997" y="275.44" width="89" height="30" as="geometry" />
+          <mxGeometry x="9.999999999999972" y="290" width="89" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZHCOi0CKFLhBOWsGDzML-1" value="RDkit" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="586" y="439.99666666666667" width="58" height="23.066666666666666" as="geometry" />
@@ -205,8 +205,8 @@
         <mxCell id="DDhGtZMp2TMjq9oy1IM1-46" value="网络寻参" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=仿宋;fontStyle=1;fontSize=17;" parent="ZHCOi0CKFLhBOWsGDzML-79" vertex="1">
           <mxGeometry x="140" y="90" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZHCOi0CKFLhBOWsGDzML-86" value="&lt;font face=&quot;仿宋&quot; style=&quot;font-size: 20px;&quot;&gt;基础&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;labelBackgroundColor=default;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="19.99999999999997" y="180" width="89" height="30" as="geometry" />
+        <mxCell id="ZHCOi0CKFLhBOWsGDzML-86" value="&lt;font face=&quot;仿宋&quot; style=&quot;font-size: 20px;&quot;&gt;基础&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;仿宋&quot; style=&quot;font-size: 20px;&quot;&gt;（KKCs识别&lt;/font&gt;&lt;font face=&quot;仿宋&quot; style=&quot;font-size: 20px;&quot;&gt;）&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;labelBackgroundColor=default;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry y="160" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DDhGtZMp2TMjq9oy1IM1-65" value="&lt;font face=&quot;仿宋&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;如何克服背景&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: 仿宋; font-size: 15px;&quot;&gt;差异的干扰&lt;/span&gt;&lt;span style=&quot;font-family: 仿宋; font-size: 15px;&quot;&gt;（KUCs干扰）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="362.24" y="275.44" width="140" height="30" as="geometry" />
@@ -223,6 +223,12 @@
         </mxCell>
         <mxCell id="_fZGLas7FPPj5Lbx37g4-10" value="&lt;span style=&quot;font-family: 仿宋; font-size: 15px;&quot;&gt;如何识别库外污染物（UKCs的识别）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="609.5" y="275.44" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cH_GiDdhhbKNjkqxMYf9-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="209" as="sourcePoint" />
+            <mxPoint x="60" y="290" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
