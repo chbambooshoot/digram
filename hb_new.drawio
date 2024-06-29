@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-29T20:40:19.216Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="jRV0bn3AQxocl1xoSmSE" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-29T20:40:50.860Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Klstqq7ftYVckspnKz8d" version="24.4.13" type="github">
   <diagram name="第 1 页" id="z8eI_ewDGcZsHXTTSjY8">
     <mxGraphModel dx="1834" dy="1172" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,13 +68,13 @@
           <mxGeometry width="327" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-20" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Task 2&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-size:12.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&lt;br/&gt;mso-fareast-font-family:等线;mso-fareast-theme-font:minor-fareast;mso-font-kerning:&lt;br/&gt;1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&lt;br/&gt;AR-SA&quot;&gt;&amp;nbsp;&lt;span lang=&quot;EN-US&quot;&gt;Extract the features&lt;br/&gt;and establish the mapping model&lt;/span&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=Times New Roman;" parent="Wu0rOCcyRxzjaYJ3d4_N-32" vertex="1">
-          <mxGeometry width="321" height="30" as="geometry" />
+          <mxGeometry y="4" width="321" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-21" value="Identification: Similarity&amp;nbsp;comparison" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Times New Roman;" parent="Wu0rOCcyRxzjaYJ3d4_N-32" vertex="1">
-          <mxGeometry x="13.756476683937825" y="34" width="150.40414507772022" height="43" as="geometry" />
+          <mxGeometry x="13.76" y="41" width="150.4" height="37" as="geometry" />
         </mxCell>
         <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-22" value="Quantitative: &lt;br&gt;Regression" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Times New Roman;" parent="Wu0rOCcyRxzjaYJ3d4_N-32" vertex="1">
-          <mxGeometry x="177" y="34" width="132" height="43" as="geometry" />
+          <mxGeometry x="177" y="41" width="132" height="37" as="geometry" />
         </mxCell>
         <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-33" value="&lt;b&gt;Task 3&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-size:12.0pt;font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:等线;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&lt;br/&gt;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;Establish the zero-shot learning model&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=16;fontFamily=Times New Roman;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="441" y="200" width="134" height="82" as="geometry" />
