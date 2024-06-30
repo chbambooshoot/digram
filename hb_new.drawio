@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-30T00:31:12.610Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="o3DhHwK0HnoTkuh-A7KN" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-30T05:53:29.541Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="mbu34e6Cex9uksuSXQo5" version="24.4.13" type="github">
   <diagram name="第 1 页" id="z8eI_ewDGcZsHXTTSjY8">
-    <mxGraphModel dx="1249" dy="2703" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1595" dy="1043" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,17 +37,17 @@
         <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-12" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fontFamily=Times New Roman;fontStyle=1" parent="1" source="Wu0rOCcyRxzjaYJ3d4_N-10" target="Wu0rOCcyRxzjaYJ3d4_N-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-10" value="&lt;a name=&quot;OLE_LINK10&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:12.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&lt;br/&gt;等线;mso-fareast-theme-font:minor-fareast;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;Identification of characteristic&lt;br&gt;bacterial contamination&lt;/span&gt;&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-87" y="110" width="174" height="60" as="geometry" />
+        <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-10" value="&lt;a name=&quot;_Hlk170631194&quot;&gt;&lt;span style=&quot;font-size:12.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&lt;br/&gt;等线;mso-fareast-theme-font:minor-fareast;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;Improve the accuracy&lt;br/&gt;of identifying pathogenic bacterial contamination&lt;/span&gt;&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-97" y="110" width="174" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-14" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fontFamily=Times New Roman;fontStyle=1" parent="1" source="Wu0rOCcyRxzjaYJ3d4_N-11" target="Wu0rOCcyRxzjaYJ3d4_N-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-11" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:12.0pt;font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:等线;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&lt;br/&gt;mso-bidi-language:AR-SA&quot;&gt;Quantitative analysis of characteristic microbial&lt;br&gt;contamination&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="141" y="110" width="172" height="60" as="geometry" />
+        <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-11" value="&lt;a name=&quot;_Hlk170631204&quot;&gt;&lt;span style=&quot;font-size:12.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&lt;br/&gt;等线;mso-fareast-theme-font:minor-fareast;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;Reduce detection&lt;br/&gt;threshold in quantitative analysis of microbial contamination&lt;/span&gt;&lt;/a&gt;" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="104" y="110" width="232" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-13" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:12.0pt;font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:等线;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&lt;br/&gt;mso-bidi-language:AR-SA&quot;&gt;Recognition of bacterial contamination&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="347" y="110" width="221" height="60" as="geometry" />
+        <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-13" value="&lt;a name=&quot;_Hlk170631226&quot;&gt;&lt;span style=&quot;font-size:12.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&lt;br/&gt;等线;mso-fareast-theme-font:minor-fareast;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;Recognize unexpected bacterial&lt;br/&gt;contamination without collecting standardized spectra&lt;/span&gt;&lt;/a&gt;" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="354" y="110" width="221" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Wu0rOCcyRxzjaYJ3d4_N-18" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fontFamily=Times New Roman;fontStyle=1" parent="1" source="Wu0rOCcyRxzjaYJ3d4_N-16" target="Wu0rOCcyRxzjaYJ3d4_N-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
