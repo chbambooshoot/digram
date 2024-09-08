@@ -98,7 +98,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JV-vYrOSxjepAwK-vZPS-36" value="保存参数$$\hat{E}_{EX,EM,p}$$" style="whiteSpace=wrap;html=1;fontSize=16;fontFamily=仿宋;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-446" y="529.95" width="120" height="70" as="geometry" />
+          <mxGeometry x="-446" y="527.95" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JV-vYrOSxjepAwK-vZPS-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JV-vYrOSxjepAwK-vZPS-40" target="JV-vYrOSxjepAwK-vZPS-42">
           <mxGeometry relative="1" as="geometry" />
