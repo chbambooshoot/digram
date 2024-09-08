@@ -170,7 +170,7 @@
         <mxCell id="JV-vYrOSxjepAwK-vZPS-67" value="&lt;font face=&quot;仿宋&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;训练阶段&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-525" y="80" width="82" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JV-vYrOSxjepAwK-vZPS-68" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="JV-vYrOSxjepAwK-vZPS-68" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=4;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-180" y="600" as="sourcePoint" />
             <mxPoint x="-180" y="70" as="targetPoint" />
@@ -182,13 +182,13 @@
             <mxPoint x="-180" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JV-vYrOSxjepAwK-vZPS-71" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="JV-vYrOSxjepAwK-vZPS-71" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=4;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-840" y="601" as="sourcePoint" />
             <mxPoint x="-840" y="71" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JV-vYrOSxjepAwK-vZPS-72" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="JV-vYrOSxjepAwK-vZPS-72" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=4;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="600" as="sourcePoint" />
             <mxPoint x="110" y="70" as="targetPoint" />
